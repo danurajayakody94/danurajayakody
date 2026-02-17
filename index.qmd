@@ -1,0 +1,205 @@
+---
+title: "Danura Jayakody"
+format:
+  html:
+    page-layout: full
+    toc: false
+    navbar: false
+    css: styles.css
+---
+
+:::{.layout}
+
+:::{#header .header}
+![](assets/img/my-profile-img2.png){.profile-img}
+
+# Danura Jayakody {.sitename}
+
+:::{.social-links}
+[](https://www.linkedin.com/in/danura-jayakody/){.social-link .linkedin}
+[](https://www.instagram.com/danura_jayakody/){.social-link .instagram}
+[](https://www.facebook.com/ishara.danura){.social-link .facebook}
+[](https://x.com/DanuraJayakody){.social-link .twitter}
+:::
+
+:::{.navmenu}
+- [Home](#hero){.nav-link .nav-home}
+- [About](#about){.nav-link .nav-about}
+- [Resume](#resume){.nav-link .nav-resume}
+- [Portfolio](#portfolio){.nav-link .nav-portfolio}
+- [Blog](#blog){.nav-link .nav-services}
+- [Contact Me](#contact){.nav-link .nav-contact}
+:::
+:::
+
+:::{.main}
+
+:::{#hero .hero}
+# Danura Jayakody {.hero-title}
+
+### UX/UI Designer | Product Designer  
+
+[Contact Me](#contact){.btn .btn-primary} [View Portfolio](#portfolio){.btn}
+:::
+
+<!-- :::{.section} -->
+
+:::{.section-title}
+### About
+:::
+
+:::{.about-grid}
+![](assets/img/my-profile-img.jpg){.about-img}
+
+:::{.about-content}
+#### UX/UI Designer
+
+I’m a UX/UI Designer who cares deeply about building digital experiences that actually make people’s day easier. Over the past seven years, I’ve worked across POS systems, B2B SaaS platforms, and enterprise tools and the common thread has always been the same. "Turn complexity into clarity."
+
+I spend a lot of time understanding real users, their habits, shortcuts, frustrations, and motivations. Whether it’s a retail associate rushing through a busy checkout, or a project manager trying to navigate a complex dashboard, I design with empathy and attention to detail. Research, prototyping, usability testing, accessibility, and thoughtful interaction design guide everything I create.
+
+:::{.about-list}
+- **Experience:** 6+ years
+- **Location:** Vancouver, Canada
+- **Education:** MBA (in progress)
+- **Availability:** Open for roles / freelance
+:::
+:::
+:::
+
+
+
+
+:::{.section}
+:::{.section-title}
+### Resume
+A focused summary of experience and education.
+:::
+
+:::{.resume-grid}
+
+:::{.card}
+#### Summary
+**Danura Jayakody**  
+UX/UI Designer with 6+ years building web and mobile products across POS, SaaS and enterprise.
+
+- Vancouver, Canada  
+- +1 778 865 7885  
+- email@example.com
+:::
+
+:::{.card}
+#### Education
+**MBA (in progress)** — University Canada West  
+2024 – Present
+
+**BSc in Computer Science** — University of Westminster  
+2014 – 2018
+:::
+
+:::{.card}
+#### Experience
+**Senior UI/UX Designer** — Mad Mobile • Colombo Sri Lanka  
+2022 – 2025  
+- Led UX for key product workflows  
+- Built reusable components and patterns  
+
+**UI/UX Designer** — CAMMS • Colombo Sri Lanka  
+2022 – 2019  
+- Designed flows, screens, prototypes  
+- Improved usability through testing
+:::
+
+:::
+:::
+
+
+
+:::{.section .light}
+:::{.section-title}
+### Portfolio
+Selected work.
+:::
+
+:::{.cards-3}
+:::{.card}
+![](assets/img/portfolio/app-1.jpg){.card-img}
+
+## Adopt a stray
+
+:::
+
+:::{.card}
+![](assets/img/portfolio/product-1.jpg){.card-img}
+
+## Online gallery
+
+:::
+
+:::{.card}
+![](assets/img/portfolio/branding-1.jpg){.card-img}
+
+## A restaurant app
+
+:::
+:::
+:::
+
+
+:::{.section}
+:::{.section-title}
+### Blog
+Place where I keep all my thoughts.
+:::
+
+:::{.cards-3}
+:::{.card}
+![](assets/img/portfolio/blog1.jpg){.card-img}
+
+## The Invisible Revolution: How AI is Rewriting the Rules of UI/UX Design
+:::
+
+:::{.card}
+![](assets/img/portfolio/blog2.jpg){.card-img}
+
+## Design Systems: The Foundation of Great Digital Experiences.
+:::
+
+:::{.card}
+![](assets/img/portfolio/blog3.jpg){.card-img}
+
+## Marketing Yourself As a UI/UX Designer.
+:::
+:::
+:::
+
+
+:::{.section}
+:::{.section-title}
+### Contact
+Want to collaborate? Send a message.
+:::
+
+:::{.contact-grid}
+:::{.card}
+#### Details
+**Location:** Vancouver, Canada  
+**Email:** email@example.com  
+**Phone:** +1 778 865 7885  
+
+[Email me](mailto:email@example.com){.btn .btn-primary}
+:::
+
+:::{.card}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.7954373860557!2d-122.89463642335154!3d49.22340647138396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548677feffd9f315%3A0xdec4ebb7d5c86ed2!2s200%20Nelson&#39;s%20Crescent%2C%20New%20Westminster%2C%20BC%20V3L%200H9!5e0!3m2!1sen!2sca!4v1771312090259!5m2!1sen!2sca" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
+:::
+:::
+
+:::{.footer}
+© 2026 Danura Jayakody — All Rights Reserved
+:::
+
+:::
+:::
